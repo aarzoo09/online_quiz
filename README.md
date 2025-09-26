@@ -1,4 +1,4 @@
-###Online Quiz Application
+#Online Quiz Application
 #Technologies Used
 
 Python – Backend logic
