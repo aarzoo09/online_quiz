@@ -1,5 +1,5 @@
-#Online Quiz Application
-#Technologies Used
+Online Quiz Application
+Technologies Used
 
 Python – Backend logic
 Streamlit – Front-end web interface
